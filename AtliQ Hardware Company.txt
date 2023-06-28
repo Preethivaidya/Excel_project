@@ -1,0 +1,30 @@
+AtliQ Hardware Company
+
+Atliq’s Business Model
+ 
+
+AtliQ Hardware domain understanding-
+
+AtliQis a company that sells hardware like PC, mouse, printers etc to different customers.
+They sell it to stores to Croma,Best Buy,Staples,Flipkart(Online store),Amazon(Online store).
+These stores sell the hardware to the end customers like us.
+We need to understand that for Atliq, the customer is the store.
+The  consumer is the person who is consuming the product.
+After manufacturing the product the products are sold to two types of customers-
+1.Brick & Mortar
+2.E-Commerce
+The above two are the platform for selling their products.
+The channels for AtliQ are-retailers,direct,distributor.
+AtliQ sells its products to the stores and its sold to the final consumer by the stores, so the stores are the retailers.
+AtliQ also has its  own stores and sells its products directly to the consumers which is a dircect channel.
+In some coutries it sells its products to a big distributor and the distributor sells it to the stores and finally it is sold to the end customer by the stores.
+
+We have created the below reports to undertsand the business.
+
+Customer performance report
+Market performance report 
+Divison level product
+Top 10,5 products
+bottom 5 products
+Top 5 coutries 
+Profit and loss by fiscal year and fiscal month.
